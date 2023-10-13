@@ -4,9 +4,9 @@ import java.util.Objects;
 
 public class CoreCompetency extends JobField {
 
-    private int id;
-    private static int nextId = 1;
-    private String value;
+//    private int id;
+//    private static int nextId = 1;
+//    private String value;
 
     public CoreCompetency() {
         this.id = nextId;
